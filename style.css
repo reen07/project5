@@ -1,0 +1,107 @@
+html, body,{
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    font-family: 'Hiragino Kaku Gothic ProN W3', sans-serif;
+  }
+  li {
+    list-style: none;
+  }
+
+  a {
+    text-decoration: none !important;
+  }
+  
+
+  .main p{
+      color: azure;
+  }
+  
+
+  .container{
+      height: 500px;
+      width: 1170px;
+      margin: 0auto;
+  }
+
+  .top1{
+      background-image: url(https://pbs.twimg.com/media/EQQpKKtU8AYtlUr?format=jpg&name=medium);
+      background-size: cover;
+      text-align: center;
+      padding-top: 260px;
+  }
+  .top1 p{
+      font-size: 27px;
+      font-family: Montserrat;
+      font-weight: bold;
+  }
+  .top1 a{
+      text-decoration: none;
+  }
+  .top2{
+    background-image: url(https://pbs.twimg.com/media/EQQpRW4UEAAjqQN?format=jpg&name=900x900);
+    background-size: cover;
+    text-align: center;
+    padding-top: 260px;
+}
+.top2 p{
+    font-size: 27px;
+    font-family: Montserrat;
+    font-weight: bold;
+}
+.top3{
+    background-image: url(https://pbs.twimg.com/media/EQQpRW2VUAAOx5A?format=jpg&name=medium);
+    background-size: cover;
+    text-align: center;
+    padding-top: 260px;
+}
+.top3 p{
+    font-size: 27px;
+    font-family: Montserrat;
+    font-weight: bold;
+}
+.top4{
+    background-image: url(https://pbs.twimg.com/media/EQQpRW2U8AAcxme?format=jpg&name=medium);
+    background-size: cover;
+    text-align: center;
+    padding-top: 260px;
+}
+.top4 p{
+    font-size: 27px;
+    font-family: Montserrat;
+    font-weight: bold;
+}
+.top5{
+    background-image: url(https://pbs.twimg.com/media/EQQpKKwU4AAXmNk?format=jpg&name=medium);
+    background-size: cover;
+    text-align: center;
+    padding-top: 260px;
+}
+.top5 p{
+    font-size: 27px;
+    font-family: Montserrat;
+    font-weight: bold;
+}
+.top6{
+    background-image: url(https://pbs.twimg.com/media/EQQpRW2VAAMmv-A?format=jpg&name=medium);
+    background-size: cover;
+    text-align: center;
+    padding-top: 260px;
+}
+.top6 p{
+    font-size: 27px;
+    font-family: Montserrat;
+    font-weight: bold;
+}
+.top7{
+    background-image: url(https://pbs.twimg.com/media/EQQxBJNVUAAhQwr?format=jpg&name=900x900);
+    background-size: cover;
+    text-align: center;
+    padding-top: 260px;
+}
+.top7 p{
+    font-size: 27px;
+    font-family: Montserrat;
+    font-weight: bold;
+}
